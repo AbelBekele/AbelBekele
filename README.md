@@ -40,13 +40,13 @@
     <td width="55%">
       <p align="center">
         <br>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbelBekele&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbelBekele&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
       </p>
     </td>
     <td width="45%">
       <p align="center">
         <br>
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelBekele&theme=light&layout=compact"/>
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelBekele&theme=algolia&layout=compact"/>
       </p>
     </td>
   </tr>
