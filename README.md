@@ -12,12 +12,12 @@
       <br>
       <blockquote>
         <p> 
-          Passionate Generative AI Engineer and Software Developer with a focus on driving innovation through
-          cutting-edge AI and machine learning techniques.
+          Generative AI Engineer with a passion for innovation. Skilled in fine-tuning LLMs, developing RAG systems, and prompt engineering.  
           <br>
-          Constantly exploring new technologies to push the boundaries
+          Experienced in Mechatronics, Data Science, and Machine Learning.
           <br>
-          of what's possible.
+          Constantly pushing boundaries to solve complex challenges and enhance system performances.
+          <br>
         </p>
       </blockquote>
        <ul>
