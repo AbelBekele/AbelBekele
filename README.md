@@ -1,3 +1,5 @@
+![Banner Image](https://github.com/AbelBekele/AbelBekele/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+
 ### Hi there 👋
 
 ## I'm Abel Bekele
